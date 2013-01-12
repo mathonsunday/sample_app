@@ -6,7 +6,7 @@
 development:
   adapter: postgresql
   host: localhost
-  username: user
+  username: rails_tutorial
   database: app-dev
   
 # Warning: The database defined as "test" will be erased and
